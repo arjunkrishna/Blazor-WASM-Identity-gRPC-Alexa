@@ -1,5 +1,6 @@
-### IMPORTANT
 
+
+This repo has been forked from https://github.com/JeepNL/Blazor-WASM-Identity-gRPC and extended to accept alexa requests.
 
 It uses Kestrel as the default webserver, a SQLite database and is "*CTRL-F5'able*" without any further configuration.
 
