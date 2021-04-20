@@ -7,7 +7,7 @@
 
   <ItemGroup>
 	  <PackageReference Include="Alexa.NET" Version="1.15.0" />
-	  <PackageReference Include="Grpc.AspNetCore" Version="2.34.0" />
+	  <PackageReference Include="Grpc.AspNetCore" Version="2.37.0" />
 	  <PackageReference Include="Grpc.AspNetCore.Web" Version="2.34.0" />
   </ItemGroup>
 
