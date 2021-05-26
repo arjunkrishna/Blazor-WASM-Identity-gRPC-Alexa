@@ -13,7 +13,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Google.Protobuf" Version="3.14.0" />
+		<PackageReference Include="Google.Protobuf" Version="3.17.2" />
 		<PackageReference Include="Grpc.Net.Client" Version="2.34.0" />
 		<PackageReference Include="Grpc.Net.Client.Web" Version="2.34.0" />
 		<PackageReference Include="Grpc.Tools" Version="2.35.0">
